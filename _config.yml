@@ -25,15 +25,15 @@ instagram_username: awangpa1020
 # linkedin_username: jameswgrant
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: channel/UCK_o0svUHaJkoWKwwICBVzg
+# youtube_username: Enjoy the Code
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 # additional_links:
-#   - title: itsgoingto.be
-#     icon: fas fa-globe
-#     url: https://www.itsgoingto.be
+  - title: Enjoy the Code Youtube Channel
+    icon: fas fa-youtube
+    url: https://www.youtube.com/channel/UCK_o0svUHaJkoWKwwICBVzg
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
