@@ -67,7 +67,7 @@ content:
         quote: >
           Project COVID 19 Tracker merupakan salah satu project terbaik yang pernah saya buat.
         description: | # this will include new lines to allow paragraphs
-         Saya membuat proyek ini sebagai cara untuk mempelajari <mark> Next js </mark> dan <mark> Typescript </mark>. Saya telah mempelajari banyak keterampilan melalui ini dan saya sangat bangga memiliki ini dalam portofolio saya.
+         Saya membuat proyek ini sebagai cara untuk mempelajari <mark>Next js</mark> dan <mark>Typescript</mark>. Saya telah mempelajari banyak keterampilan melalui ini dan saya sangat bangga memiliki ini dalam portofolio saya.
 
       - layout: top-middle
         title: Showcase Website
@@ -83,7 +83,7 @@ content:
         quote: >
           Project Showcase Website merupakan project pertama saya yang menerapkan full stack pada pembuatannya
         description: | # this will include new lines to allow paragraphs
-          Project Showcase Website ini saya buat untuk belajar menjadi full stack developher. Project ini saya buat dengan <mark> React </mark> sebagai tampilan antar mukanya atau front - end sedangkan untuk storage dan back - endnya saya menggunakan <mark> Express JS</mark> dan <mark> Firebase </mark>. Saya sangat bangga karena saya bisa membuat project full stack pertama saya.
+          Project Showcase Website ini saya buat untuk belajar menjadi full stack developher. Project ini saya buat dengan <mark>React</mark> sebagai tampilan antar mukanya atau front - end sedangkan untuk storage dan back - endnya saya menggunakan <mark>Express JS</mark> dan <mark>Firebase</mark>. Saya sangat bangga karena saya bisa membuat project full stack pertama saya.
 
   - title: Pendidikan # Title for the section
     layout: list # Type of content section (list/text)
@@ -101,13 +101,13 @@ content:
 
           
 
-  # - title: A Little More About Me
-  #   layout: text
-  #   content: | # this will include new lines to allow paragraphs
-  #     Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-  #     - Reading
-  #     - Gaming
-  #     - Programming
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      - Reading
+      - Gaming
+      - Programming
 
 # Footer
 footer_show_references: true
