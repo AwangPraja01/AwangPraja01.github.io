@@ -119,7 +119,6 @@ content:
   - title: Hobi
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
       Selain ketertarikan saya dalam web development saya juga mempunyai ketertarikan lainnya yang dilakukan pada waktu luang atau yang bisanya disebut sebagai hobi yaitu membaca dan bermain game
 
 # Footer
