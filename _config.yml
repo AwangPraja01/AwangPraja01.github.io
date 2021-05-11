@@ -50,17 +50,9 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, nama saya Awang Praja Anugerah dan saya seorang front - end developher. Selain berperan sebagai front - end developher saya juga dapat berperan sebagai back - end developher. Saya telah membuat berbagai project yang dapat anda lihat pada github saya.
 
-  Framework yang saya kuasai adalah sebagai berikut.
-  - <mark>React</mark>
-  - <mark>Next JS</mark>
-  - <mark>Express JS</mark>
-  - <mark>Laravel</mark>
-  - <mark>Git</mark>
+  Framework yang saya kuasai diataranya <mark>React</mark> <mark>Next JS</mark> <mark>Express JS</mark> <mark>Laravel</mark> <mark>Git</mark>
 
-  Bahasa pemograman yang saya kuasai adalah sebagai berikut.
-  - <mark>Javascript</mark>
-  - <mark>HTML & CSS</mark>
-  - <mark>PHP</mark>
+  Bahasa pemograman yang saya kuasai  diataranya <mark>Javascript</mark> <mark>HTML & CSS</mark> <mark>PHP</mark>
 
 content:
   - title: Projects # Title for the section
