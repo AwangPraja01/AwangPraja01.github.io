@@ -85,7 +85,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Project Showcase Website ini saya buat untuk belajar menjadi full stack developher. Project ini saya buat dengan <mark>React</mark> sebagai tampilan antar mukanya atau front - end sedangkan untuk storage dan back - endnya saya menggunakan <mark>Express JS</mark> dan <mark>Firebase</mark>. Saya sangat bangga karena saya bisa membuat project full stack pertama saya.
 
-  - title: Pendidikan # Title for the section
+  - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -93,21 +93,23 @@ content:
         caption: 2018 - 2021
         sub_title: Analisis Pengujian Laboratorium
         quote: >
-          SMK SMTI Pontianak yang dulunya adalah STMA didirikan pada tanggal 15 Januari 1968 yang dikukuhkan dengan SK Gubernur KDH Tk.1 Kalimantan Barat No. 01/11-E/68. Pengelolaan SMTI Pontianak diserah terimakan dari Pemda Tk. 1 Kalimantan Barat ke Pihak Departemen Perindustrian. Pusat Pembinaan Pelatihan Keterampilan dan Kejuruan Industri. Sedangkan ijazah SMK SMTI dinilai, dihargai dan disamakan dengan ijazah Sekolah Menengah Kejuruan Negeri berdasarkan SK Mendikbud RI No. 1277/C/Kep/1/87.
+          SMK SMTI Pontianak yang dulunya adalah STMA didirikan pada tanggal 15 Januari 1968 yang dikukuhkan dengan SK Gubernur KDH Tk.1 Kalimantan Barat No. 01/11-E/68. Pengelolaan SMTI Pontianak diserah terimakan dari Pemda Tk. 1 Kalimantan Barat ke Pihak Departemen Perindustrian.
         description: | # this will include new lines to allow paragraphs
           During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
-          
-
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Reading
+      - Rock climbing
       - Gaming
-      - Programming
+      - Knitting
+      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
+      Look at this cool image  
+      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
