@@ -45,7 +45,7 @@ youtube_username: Enjoy the Code
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
+# about_title: Tentang saya
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, nama saya Awang Praja Anugerah dan saya seorang front - end developher. Selain berperan sebagai front - end developher saya juga dapat berperan sebagai back - end developher. Saya telah membuat berbagai project yang dapat anda lihat pada github saya.
@@ -88,8 +88,23 @@ content:
           Project Showcase Website merupakan project pertama saya yang menerapkan full stack pada pembuatannya
         description: | # this will include new lines to allow paragraphs
           Project Showcase Website ini saya buat untuk belajar menjadi full stack developher. Project ini saya buat dengan <mark>React</mark> sebagai tampilan antar mukanya atau front - end sedangkan untuk storage dan back - endnya saya menggunakan <mark>Express JS</mark> dan <mark>Firebase</mark>. Saya sangat bangga karena saya bisa membuat project full stack pertama saya.
+      - layout: top-middle
+        title: Users List
+        link: github.com/AwangPraja01/users_list_react_redux
+        # link_text: Project Website
+        additional_links:
+          - title: github.com/AwangPraja01
+            icon: fab fa-github
+            url: github.com/AwangPraja01
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Project Users List merupakan project yang dibuat menggunakan state management
+        description: | # this will include new lines to allow paragraphs
+          This website is used to create a list of users. This website was created using <mark>React</mark>, <mark>JSON Placeholder</mark> as data provider, and <mark>Redux</mark> as state management
 
-  - title: Education # Title for the section
+  - title: Pendidikan # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -99,17 +114,13 @@ content:
         quote: >
           SMK SMTI Pontianak yang dulunya adalah STMA didirikan pada tanggal 15 Januari 1968 yang dikukuhkan dengan SK Gubernur KDH Tk.1 Kalimantan Barat No. 01/11-E/68. Pengelolaan SMTI Pontianak diserah terimakan dari Pemda Tk. 1 Kalimantan Barat ke Pihak Departemen Perindustrian.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          Selama saya di SMK TI Pontianak, saya mempelajari banyak belajar tentang web development walaupun tidak ada sangkut pautnya dengan jurusan saya karena saya sangat dalam belajar web development. Saya sangat memikmati waktu saya dalam belajar web development dan ingin lebih banyak lagi mempelajari bidang tersebut.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
-  - title: A Little More About Me
+  - title: Hobi
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
+      Selain ketertarikan saya dalam web development saya juga mempunyai ketertarikan lainnya yang dilakukan pada waktu luang atau yang bisanya disebut sebagai hobi yaitu membaca dan bermain game
 
 # Footer
 footer_show_references: true
